@@ -7,7 +7,7 @@
   <property name="build" location="build"/>
   <property name="dist" location="dist"/>
 
-  <!--Adding a comment section for the code 2-->
+  <!--Adding a comment section for the code 3-->
 
   <target name="init">
     <!-- Create the time stamp -->
